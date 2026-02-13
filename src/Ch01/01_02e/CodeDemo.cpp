@@ -1,5 +1,5 @@
 // Learning C++ 
-// Exercise 01_02
+// Exercise 01_02  modif 
 // Hello World, by Eduardo Corpeño 
 
 #include <iostream>
